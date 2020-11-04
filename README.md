@@ -1,2 +1,4 @@
 # soundjack
-binaries for soundjack installation at MIT
+
+Soundjack installation at MIT
+
