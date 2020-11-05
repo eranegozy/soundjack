@@ -1,9 +1,0 @@
-/root/dev/SoundjackLinux/SJ-Logs.txt
-/root/dev/SoundjackLinux/SCJstart-out
-{
-daily
-missingok
-notifempty
-compress
-rotate 14
-}
