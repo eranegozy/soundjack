@@ -8,7 +8,7 @@ export SJ_CHANNELS=1
 export SJ_FRAMESIZE=256
 export SJ_JITTERBUF=2
 export SJ_BINDPORT=50050
-export SJ_EXE=SJC210106
+export SJ_EXE=SJC210224
 case "$1" in
     start)
         echo "Starting soundjack"
